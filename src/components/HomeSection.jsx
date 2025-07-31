@@ -15,9 +15,9 @@ export const HomeSection = () => {
                     </h1>
 
                     <p className='text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3'>
-                        I study electrical engineering with a specialization in digital systems design,
-                        biomedical technology, and software. I have a passion for entreprenership, leadership,
-                        and finding meaning in my work is important to me.
+                    I'm looking to apply my skills in software development, electrical engineering,
+                    medical technology, entreprenership, and leadership to some cutting-edge technologies
+                    and companies with purpose.
                     </p>
 
                     <div>

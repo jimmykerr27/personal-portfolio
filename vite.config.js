@@ -11,4 +11,11 @@ export default defineConfig({
     },
   },
   base: "/james-kerr-portfolio/",
+  build: {
+    rollupOptions: {
+      input: {
+        main: path.resolve(__dirname, 'index.html'),
+      },
+    },
+  },
 });
