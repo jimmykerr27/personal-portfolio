@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <Toaster />
-      <BrowserRouter basename="/james-kerr-portfolio">
+      <BrowserRouter basename="/personal-portfolio">
         <Routes>
           <Route index element={<Home />} />
           <Route path='*' element={<NotFound />} />
