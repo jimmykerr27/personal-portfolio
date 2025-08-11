@@ -48,9 +48,9 @@ export const AboutSection = () => {
                                 <div className='text-left'>
                                     <h4 className='font-semibold text-lg'> Software Development</h4>
                                     <p className='text-mutede-foreground'>
-                                        I have hands-on experience developing software solutions that solve real-world problems, from building a mobile app for UBC Track & Field to designing interactive dashboards using React, 
-                                        Tailwind CSS, and Node.js. My projects integrate clean UI/UX design with functional, scalable code, and I’m skilled in languages and tools such as JavaScript, Python, C, and Git. 
-                                        I approach software development with a focus on efficiency, user experience, and delivering reliable results ahead of schedule.
+                                        - Built responsive, user-focused applications using React, Node.js, and Tailwind CSS, improving usability and efficiency.
+                                        - Designed and deployed interactive dashboards and mobile tools that streamlined communication and scheduling for high-performance teams.
+                                        - Proficient in JavaScript, Python, and C, with experience in full-stack development and UI/UX optimization.
                                     </p>
                                 </div>
                             </div>
@@ -64,9 +64,9 @@ export const AboutSection = () => {
                                 <div className='text-left'>
                                     <h4 className='font-semibold text-lg'> Hardware Systems Design</h4>
                                     <p className='text-mutede-foreground'>
-                                        My engineering foundation includes designing and prototyping hardware systems, from circuit analysis and electromagnetics to embedded systems. 
-                                        I have built AI-based gesture-controlled robots using Arduino, breadboard circuitry, and embedded C-scripting, integrating hardware functionality with Python-based classification models. 
-                                        I excel at bridging theoretical design principles with practical implementation, ensuring systems are both innovative and reliable.
+                                        - Engineered AI-driven gesture-controlled robotics using Arduino, breadboard circuitry, and embedded C programming.
+                                        - Applied circuit analysis, electromagnetics, and electronics design skills to create innovative, functional prototypes.
+                                        - Integrated software and hardware systems for real-world applications, ensuring reliability and precision in performance.
                                     </p>
                                 </div>
                             </div>
@@ -80,9 +80,9 @@ export const AboutSection = () => {
                                 <div className='text-left'>
                                     <h4 className='font-semibold text-lg'> Entrepreneruship & Leadership</h4>
                                     <p className='text-mutede-foreground'>
-                                        As a national champion athlete, varsity team leader, and founder of a profitable swim school, I bring a proven track record of leadership, organization, and vision. 
-                                        I have coached national-qualifying track athletes, led athletic fundraising initiatives, and managed client relationships to achieve 100% retention in my business. 
-                                        My leadership style blends strategic thinking with empathy, fostering trust and motivating others to reach their goals.
+                                        - Founded and grew a profitable private swim school, achieving 100% client retention through quality service and marketing.
+                                        - Led athletic and academic teams, balancing leadership with mentorship to help peers achieve personal and collective goals.
+                                        - Proven ability to inspire, organize, and deliver results in competitive, high-pressure environments.
                                     </p>
                                 </div>
                             </div>
