@@ -48,9 +48,9 @@ export const AboutSection = () => {
                                 <div className='text-left'>
                                     <h4 className='font-semibold text-lg'> Software Development</h4>
                                     <p className='text-mutede-foreground'>
-                                        - Built responsive, user-focused applications using React, Node.js, and Tailwind CSS, improving usability and efficiency.
-                                        - Designed and deployed interactive dashboards and mobile tools that streamlined communication and scheduling for high-performance teams.
-                                        - Proficient in JavaScript, Python, and C, with experience in full-stack development and UI/UX optimization.
+                                        - Built responsive, user-focused applications using React, Node.js, and Tailwind CSS, improving usability and efficiency.<br>
+                                        - Designed and deployed interactive dashboards and mobile tools that streamlined communication and scheduling for high-performance teams.<br>
+                                        - Proficient in JavaScript, Python, and C, with experience in full-stack development and UI/UX optimization.<br>
                                     </p>
                                 </div>
                             </div>
@@ -64,9 +64,9 @@ export const AboutSection = () => {
                                 <div className='text-left'>
                                     <h4 className='font-semibold text-lg'> Hardware Systems Design</h4>
                                     <p className='text-mutede-foreground'>
-                                        - Engineered AI-driven gesture-controlled robotics using Arduino, breadboard circuitry, and embedded C programming.
-                                        - Applied circuit analysis, electromagnetics, and electronics design skills to create innovative, functional prototypes.
-                                        - Integrated software and hardware systems for real-world applications, ensuring reliability and precision in performance.
+                                        - Engineered AI-driven gesture-controlled robotics using Arduino, breadboard circuitry, and embedded C programming.<br>
+                                        - Applied circuit analysis, electromagnetics, and electronics design skills to create innovative, functional prototypes.<br>
+                                        - Integrated software and hardware systems for real-world applications, ensuring reliability and precision in performance.<br>
                                     </p>
                                 </div>
                             </div>
@@ -80,9 +80,9 @@ export const AboutSection = () => {
                                 <div className='text-left'>
                                     <h4 className='font-semibold text-lg'> Entrepreneruship & Leadership</h4>
                                     <p className='text-mutede-foreground'>
-                                        - Founded and grew a profitable private swim school, achieving 100% client retention through quality service and marketing.
-                                        - Led athletic and academic teams, balancing leadership with mentorship to help peers achieve personal and collective goals.
-                                        - Proven ability to inspire, organize, and deliver results in competitive, high-pressure environments.
+                                        - Founded and grew a profitable private swim school, achieving 100% client retention through quality service and marketing.<br>
+                                        - Led athletic and academic teams, balancing leadership with mentorship to help peers achieve personal and collective goals.<br>
+                                        - Proven ability to inspire, organize, and deliver results in competitive, high-pressure environments.<br>
                                     </p>
                                 </div>
                             </div>
