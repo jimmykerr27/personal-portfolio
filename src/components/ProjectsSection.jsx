@@ -11,25 +11,25 @@ const projects =[
         title: 'UBC Training App',
         description: 'An interactive app using React, Tailwind, and Node.js with over 80 active users.',
         image: '/projects/...',
-        tags: ['React', 'TailwindCSS', 'Node.js'],
+        tags: ['Software Design', 'UI/UX', 'Problem Solving'],
         demoUrl: '#',
         githubUrl: '#',
     },
     {
         id: 2,
-        title: '',
-        description: '',
+        title: 'AI-Based Gesture-Controlled Robot',
+        description: 'Built a tracking robot that follows movement and responds to gestures using computer vision and machine learning.',
         image: '/projects/...',
-        tags: [],
+        tags: ['Hardware', 'Machine Learning', 'System Control'],
         demoUrl: '#',
         githubUrl: '#',
     },
     {
         id: 3,
-        title: '',
-        description: '',
+        title: 'Valerion',
+        description: 'Founded a biomedical engineering startup to develop medical imaging AI classification models, wearable devices, and portable medical equipment for remote care.',
         image: '/projects/...',
-        tags: [],
+        tags: ['AI', 'Entrepreneurship', 'Engineering'],
         demoUrl: '#',
         githubUrl: '#',
     },
@@ -104,7 +104,7 @@ export const ProjectsSection = () => {
 
                 <div className='text-center mt-12'>
                     <a 
-                        href='https://github.com/...'
+                        href='https://github.com/jimmykerr27'
                         target='_blank'
                         className='button w-fit flex items-center mx-auto gap-2'
                     >
