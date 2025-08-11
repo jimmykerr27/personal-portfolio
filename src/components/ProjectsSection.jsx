@@ -10,7 +10,7 @@ const projects =[
         id: 1,
         title: 'UBC Training App',
         description: 'An interactive app using React, Tailwind, and Node.js with over 80 active users.',
-        image: '/projects/...',
+        image: 'Downloads/UBC_Thunderbirds_Logo.svg.png',
         tags: ['Software Design', 'UI/UX', 'Problem Solving'],
         demoUrl: '#',
         githubUrl: '#',
@@ -28,7 +28,7 @@ const projects =[
         id: 3,
         title: 'Valerion',
         description: 'Founded a biomedical engineering startup to develop medical imaging AI classification models, wearable devices, and portable medical equipment for remote care.',
-        image: '/projects/...',
+        image: 'Downloads/ValerionLogo.png',
         tags: ['AI', 'Entrepreneurship', 'Engineering'],
         demoUrl: '#',
         githubUrl: '#',
@@ -44,8 +44,7 @@ export const ProjectsSection = () => {
                 </h2>
 
                 <p className='text-center text-muted-foreground mb-12 max-w-2xl mx-auto'>
-                    Here are some of my recent projects. Each one showcases the skills 
-                    listed above and was designed to be usable or address a problem.
+                    Here are some of my recent projects showcasing my skills as listed above. I aim to solve real problems and create usable tools as you'll see each once has practical uses or goals.
                 </p>
 
                 <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8'>
