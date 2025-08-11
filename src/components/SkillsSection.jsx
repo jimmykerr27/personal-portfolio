@@ -35,14 +35,14 @@ const skills = [
     {name: 'MS PowerPoint', level: 90, category: 'tools'},
 ]
 
-const categories = ['all', 'electrical', 'frontend', 'backend', 'programming', 'tools'];
+const categories = ['all', 'electrical', 'frontend', 'backend', 'programming', 'tools']
 
 export const SkillsSection = () => {
     const [activeCategory, setActiveCategory] = useState('all');
 
     const filteredSkills = skills.filter(
         (skill) => activeCategory === 'all' || skill.category === activeCategory
-    );
+    )
     
     return (
         <section 
