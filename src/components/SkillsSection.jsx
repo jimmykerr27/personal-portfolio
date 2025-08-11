@@ -33,7 +33,7 @@ const skills = [
     {name: 'KiCad', level: 90, category: 'tools'},
     {name: 'MS Excel', level: 85, category: 'tools'},
     {name: 'MS PowerPoint', level: 90, category: 'tools'},
-];
+]
 
 const categories = ['all', 'electrical', 'frontend', 'backend', 'programming', 'tools'];
 
